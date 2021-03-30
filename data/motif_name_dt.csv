@@ -1,0 +1,17 @@
+dt_set,motif,motif_name
+K4,motif_2,QTP
+K4,motif_3,NHD
+K4,motif_4,SHD
+K6,motif_2,QTP
+K6,motif_3,NEQ
+K6,motif_4,NHD
+K6,motif_5,SHD
+K6,motif_6,STR
+K9,motif_2,QTP
+K9,motif_3,NEQ
+K9,motif_4,WHD
+K9,motif_5,EHD
+K9,motif_6,CHD
+K9,motif_7,HIM
+K9,motif_8,STR
+K9,motif_9,SHD
