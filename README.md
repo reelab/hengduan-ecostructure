@@ -7,6 +7,6 @@ Aticle: Grade of Membership models reveal geographical and environmental correla
 
 Authors: Qin Li, Hang Sun, David E. Boufford, Bruce Bartholomew, Peter W. Fritsch, Jiahui Chen, Tao Deng, Richard H. Ree
 
-DOI: (New Phytologist, accepted)
+DOI: https://doi.org/10.1111/nph.17443
 
 (compiled by Qin Li 20210329)
